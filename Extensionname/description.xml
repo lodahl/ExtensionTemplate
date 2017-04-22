@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<description
+ xmlns="http://openoffice.org/extensions/description/2006"
+ xmlns:dep="http://openoffice.org/extensions/description/2006"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<identifier value="extension identifier"/>
+	<version value="0.0.0"/>
+<dependencies>
+		<OpenOffice.org-minimal-version value="2.1" dep:name="OpenOffice.org 2.1"/>
+	</dependencies> 
+<registration>
+<simple-license accept-by="user" default-license-id="en-US" suppress-on-update="true" >
+<license-text xlink:href="License-text.txt" lang="en-US" license-id="en-US" />
+</simple-license>
+</registration>
+<display-name>
+    <name lang="en-US">English name here</name>
+    <name lang="da-DK">Danish name here</name>
+  </display-name>
+
+  <publisher>
+    <name xlink:href="http-url here"
+    lang="da">Company name here</name>
+    <name xlink:href="http-url here" 
+    lang="en">Company name here</name>
+  </publisher>
+ 
+ 
+  <icon>
+    <default xlink:href="icons/___.png" />
+    <high-contrast xlink:href="icons/___.png" />
+  </icon>
+
+
+
+</description>
