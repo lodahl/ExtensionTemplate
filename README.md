@@ -1,4 +1,4 @@
-=Extension Template
+#Extension Template
 
 This is a master for new LibreOffice Extensions.
 
